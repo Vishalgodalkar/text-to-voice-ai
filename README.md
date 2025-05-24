@@ -114,4 +114,4 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 
 ## ✨ Author
 
-Made with 💙 by [Your Name](https://github.com/Vishalgodalkar)
+Made with 💙 by [Vishal Godalakr](https://github.com/Vishalgodalkar)
