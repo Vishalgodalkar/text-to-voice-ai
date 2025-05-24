@@ -102,12 +102,6 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxx
 
 ---
 
-## 📸 Screenshots (Optional)
-
-_Add UI screenshots or feature previews here_
-
----
-
 ## 🧪 Upcoming Features
 
 - Speech-to-Text
@@ -118,12 +112,6 @@ _Add UI screenshots or feature previews here_
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
 ## ✨ Author
 
-Made with 💙 by [Your Name](https://github.com/your-username)
+Made with 💙 by [Your Name](https://github.com/Vishalgodalkar)
